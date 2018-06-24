@@ -19,7 +19,7 @@ Sample website with plenty of files for demos
 Deployment
 
 ## Adding copyright
-Added copyright
+Chandima Ranaweera
 
 ## How to contribute
 fork and send pull requests
