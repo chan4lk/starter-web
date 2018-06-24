@@ -2,7 +2,9 @@
 
 ## Introduction
 Adding introduction text
+
 ## How to continue
+Fork and pull.
 
 ### added new section
 new section text
