@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 ## Introduction
-
+Adding introduction text
 ## How to continue
 
 ### added new section
