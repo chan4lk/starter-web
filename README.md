@@ -4,7 +4,7 @@
 Adding introduction text
 
 ## How to continue
-Fork and pull.
+Fork and pull. then more changes from myfeature
 
 ### added new section
 new section text
