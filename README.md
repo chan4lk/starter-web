@@ -18,3 +18,6 @@ Deployment
 
 ## Adding copyright
 Added copyright
+
+## How to contribute
+fork and send pull requests
